@@ -3,3 +3,4 @@
 *.pem
 *.json
 *.csr
+*.kubeconfig
